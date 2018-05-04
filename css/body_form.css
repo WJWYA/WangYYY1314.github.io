@@ -1,0 +1,29 @@
+.body_info2_top{
+    width: 100%;
+    height: 30%;
+    float: left;
+}
+.body_info2_context{
+    float: left;
+    background-color: cadetblue;
+    height: 40%;
+    width: 28%;
+    margin-left: 4%;
+    cursor: pointer;
+    transition: 0.5s;
+}
+.body_info2_context:hover{
+    box-shadow: 0px 5px 10px grey;
+}
+.body_info2_context_top{
+    float: left;
+    width: 100%;
+    height: 55%;
+    background-color: white;
+}
+.body_info2_context_bottom{
+    float: left;
+    width: 100%;
+    height: 45%;
+    background-color: #f4f4f4;
+}
